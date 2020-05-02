@@ -12,6 +12,9 @@
 
 # Package Files #
 *.jar
+
+#Eclipse
+.settings/
 *.war
 *.nar
 *.ear
